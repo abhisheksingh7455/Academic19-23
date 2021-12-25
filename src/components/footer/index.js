@@ -2,7 +2,8 @@ const Footer = () => {
     return (
         <div className="footer">
            <b>
-            Contributions Done by : {` `}
+            Contributions Done by 
+            <br></br>
             <i> <a className="nav-link" href="https://www.linkedin.com/in/abhishek-singh-9244b8144/">
                 Abhishek Singh,{` `}{` `} {` `}
             </a>
