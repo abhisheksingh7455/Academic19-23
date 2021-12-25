@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.331eb2ef.chunk.css",
-    "main.js": "/static/js/main.e1e5d393.chunk.js",
-    "main.js.map": "/static/js/main.e1e5d393.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5bdbb7bd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5bdbb7bd.js.map",
-    "static/js/2.fbb7702c.chunk.js": "/static/js/2.fbb7702c.chunk.js",
-    "static/js/2.fbb7702c.chunk.js.map": "/static/js/2.fbb7702c.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.331eb2ef.chunk.css.map": "/static/css/main.331eb2ef.chunk.css.map",
-    "static/js/2.fbb7702c.chunk.js.LICENSE.txt": "/static/js/2.fbb7702c.chunk.js.LICENSE.txt",
-    "static/js/index.worker.c493fc4e.worker.js": "/static/js/index.worker.c493fc4e.worker.js",
-    "static/js/index.worker.c493fc4e.worker.js.LICENSE.txt": "/static/js/index.worker.c493fc4e.worker.js.LICENSE.txt",
-    "static/js/index.worker.c493fc4e.worker.js.map": "/static/js/index.worker.c493fc4e.worker.js.map"
+    "main.css": "/abhisheksingh7455/Academic19-23/static/css/main.331eb2ef.chunk.css",
+    "main.js": "/abhisheksingh7455/Academic19-23/static/js/main.bb491277.chunk.js",
+    "main.js.map": "/abhisheksingh7455/Academic19-23/static/js/main.bb491277.chunk.js.map",
+    "runtime-main.js": "/abhisheksingh7455/Academic19-23/static/js/runtime-main.8f599b85.js",
+    "runtime-main.js.map": "/abhisheksingh7455/Academic19-23/static/js/runtime-main.8f599b85.js.map",
+    "static/js/2.fbb7702c.chunk.js": "/abhisheksingh7455/Academic19-23/static/js/2.fbb7702c.chunk.js",
+    "static/js/2.fbb7702c.chunk.js.map": "/abhisheksingh7455/Academic19-23/static/js/2.fbb7702c.chunk.js.map",
+    "index.html": "/abhisheksingh7455/Academic19-23/index.html",
+    "service-worker.js": "/abhisheksingh7455/Academic19-23/service-worker.js",
+    "service-worker.js.map": "/abhisheksingh7455/Academic19-23/service-worker.js.map",
+    "static/css/main.331eb2ef.chunk.css.map": "/abhisheksingh7455/Academic19-23/static/css/main.331eb2ef.chunk.css.map",
+    "static/js/2.fbb7702c.chunk.js.LICENSE.txt": "/abhisheksingh7455/Academic19-23/static/js/2.fbb7702c.chunk.js.LICENSE.txt",
+    "static/js/index.worker.b0ec0684.worker.js": "/abhisheksingh7455/Academic19-23/static/js/index.worker.b0ec0684.worker.js",
+    "static/js/index.worker.b0ec0684.worker.js.LICENSE.txt": "/abhisheksingh7455/Academic19-23/static/js/index.worker.b0ec0684.worker.js.LICENSE.txt",
+    "static/js/index.worker.b0ec0684.worker.js.map": "/abhisheksingh7455/Academic19-23/static/js/index.worker.b0ec0684.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bdbb7bd.js",
+    "static/js/runtime-main.8f599b85.js",
     "static/js/2.fbb7702c.chunk.js",
     "static/css/main.331eb2ef.chunk.css",
-    "static/js/main.e1e5d393.chunk.js"
+    "static/js/main.bb491277.chunk.js"
   ]
 }
