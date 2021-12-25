@@ -1,0 +1,52 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    transition: background-color 0.4s cubic-bezier(0.4, 0, 1, 1),
+        color 0.4s cubic-bezier(0.4, 0, 1, 1), min-height 0s;
+}
+.home {
+    flex: 1 0 auto;
+    z-index: 10;
+    height: max-content;
+    padding-bottom: 10px;
+}
+
+.anomaly {
+    color: inherit;
+    float: right;
+    margin: 10px;
+}
+
+.anomaly:hover::before {
+    content: 'Help & Feedback';
+    margin-right: 5px;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+    width: 100%;
+    justify-content: center;
+    padding: 10px 0px;
+    text-align: center;
+    box-shadow: 2px 3px 20px rgba(0, 0, 0, 0.5);
+    z-index: 10;
+}
+
+.nav-link {
+    color: inherit;
+}
+
+.particles-bg-canvas-self {
+    position: fixed;
+}
+
+.main-container.dark {
+    background-color: #121212;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.dark .footer {
+    background-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 2px 3px 20px rgba(255, 255, 255, 0.2);
+}
