@@ -1,15 +1,14 @@
 const Footer = () => {
     return (
         <div className="footer">
-            Tried making with care (❁´◡`❁) by : {` `}
-            <a className="nav-link" href="https://github.com/jatinsajwan3841">
-                Jatin
+           <b>
+            Contributions Done by : {` `}
+            <i> <a className="nav-link" href="https://www.linkedin.com/in/abhishek-singh-9244b8144/">
+                Abhishek Singh,{` `}{` `} {` `}
             </a>
-            <br></br>
-            Contributions by : {` `}
-            <a className="nav-link" href="https://www.linkedin.com/in/abhishek-singh-9244b8144/">
-                Abhishek Singh
-            </a>
+            <a className="nav-link" href="https://in.linkedin.com/in/sakshi-shankar-533b27186">
+                Sakshi Shankar 
+            </a></i> </b>
         </div>
     )
 }
