@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/abhisheksingh7455/Academic19-23/static/css/main.331eb2ef.chunk.css",
-    "main.js": "/abhisheksingh7455/Academic19-23/static/js/main.bb491277.chunk.js",
-    "main.js.map": "/abhisheksingh7455/Academic19-23/static/js/main.bb491277.chunk.js.map",
-    "runtime-main.js": "/abhisheksingh7455/Academic19-23/static/js/runtime-main.8f599b85.js",
-    "runtime-main.js.map": "/abhisheksingh7455/Academic19-23/static/js/runtime-main.8f599b85.js.map",
-    "static/js/2.fbb7702c.chunk.js": "/abhisheksingh7455/Academic19-23/static/js/2.fbb7702c.chunk.js",
-    "static/js/2.fbb7702c.chunk.js.map": "/abhisheksingh7455/Academic19-23/static/js/2.fbb7702c.chunk.js.map",
-    "index.html": "/abhisheksingh7455/Academic19-23/index.html",
-    "service-worker.js": "/abhisheksingh7455/Academic19-23/service-worker.js",
-    "service-worker.js.map": "/abhisheksingh7455/Academic19-23/service-worker.js.map",
-    "static/css/main.331eb2ef.chunk.css.map": "/abhisheksingh7455/Academic19-23/static/css/main.331eb2ef.chunk.css.map",
-    "static/js/2.fbb7702c.chunk.js.LICENSE.txt": "/abhisheksingh7455/Academic19-23/static/js/2.fbb7702c.chunk.js.LICENSE.txt",
-    "static/js/index.worker.b0ec0684.worker.js": "/abhisheksingh7455/Academic19-23/static/js/index.worker.b0ec0684.worker.js",
-    "static/js/index.worker.b0ec0684.worker.js.LICENSE.txt": "/abhisheksingh7455/Academic19-23/static/js/index.worker.b0ec0684.worker.js.LICENSE.txt",
-    "static/js/index.worker.b0ec0684.worker.js.map": "/abhisheksingh7455/Academic19-23/static/js/index.worker.b0ec0684.worker.js.map"
+    "main.css": "/Academic19-23/static/css/main.331eb2ef.chunk.css",
+    "main.js": "/Academic19-23/static/js/main.3a65fb1a.chunk.js",
+    "main.js.map": "/Academic19-23/static/js/main.3a65fb1a.chunk.js.map",
+    "runtime-main.js": "/Academic19-23/static/js/runtime-main.6ef6be85.js",
+    "runtime-main.js.map": "/Academic19-23/static/js/runtime-main.6ef6be85.js.map",
+    "static/js/2.fbb7702c.chunk.js": "/Academic19-23/static/js/2.fbb7702c.chunk.js",
+    "static/js/2.fbb7702c.chunk.js.map": "/Academic19-23/static/js/2.fbb7702c.chunk.js.map",
+    "index.html": "/Academic19-23/index.html",
+    "service-worker.js": "/Academic19-23/service-worker.js",
+    "service-worker.js.map": "/Academic19-23/service-worker.js.map",
+    "static/css/main.331eb2ef.chunk.css.map": "/Academic19-23/static/css/main.331eb2ef.chunk.css.map",
+    "static/js/2.fbb7702c.chunk.js.LICENSE.txt": "/Academic19-23/static/js/2.fbb7702c.chunk.js.LICENSE.txt",
+    "static/js/index.worker.4d2cc18e.worker.js": "/Academic19-23/static/js/index.worker.4d2cc18e.worker.js",
+    "static/js/index.worker.4d2cc18e.worker.js.LICENSE.txt": "/Academic19-23/static/js/index.worker.4d2cc18e.worker.js.LICENSE.txt",
+    "static/js/index.worker.4d2cc18e.worker.js.map": "/Academic19-23/static/js/index.worker.4d2cc18e.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f599b85.js",
+    "static/js/runtime-main.6ef6be85.js",
     "static/js/2.fbb7702c.chunk.js",
     "static/css/main.331eb2ef.chunk.css",
-    "static/js/main.bb491277.chunk.js"
+    "static/js/main.3a65fb1a.chunk.js"
   ]
 }
