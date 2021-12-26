@@ -271,6 +271,8 @@ const Home = ({ darkMode, setDarkMode, update }) => {
                             This is a Web worker - Reactjs based PWA where
                             anyone from the batch 2019-23 can have a quick
                             reference of their academic performance.
+                            <br/>
+                            It will work offline too and is installable.
                             
                             
                         </p>
