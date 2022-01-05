@@ -50,3 +50,24 @@
     background-color: rgba(187, 158, 79, 0.726);
     box-shadow: 2px 3px 20px rgba(255, 255, 255, 0.2);
 }
+.table {
+    
+    margin-left:-39px;
+    margin-right:5px;
+    
+    font-size: 10px;
+    border-style: double;
+    margin-top: -3.5%;
+    border-block-start-width: thick;
+    background-origin: padding-box;
+    border-top-left-radius: inherit ;
+    padding: 2px 4px 3px 4px;
+}
+.table2 {
+    
+    margin-left:-40px;
+    margin-right:auto;
+    width: 100%;
+    font-size: 12px;
+    
+}

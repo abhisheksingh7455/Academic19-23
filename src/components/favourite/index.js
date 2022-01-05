@@ -22,6 +22,40 @@ const Favourite = ({ saved, favShow, favDel }) => {
                               />
                           </li>
                       ))}
+                      <h5 class="table2">Change Log</h5>
+
+                      
+<table class="table">
+<thead style={{ backgroundColor: "grey"}}>
+<tr >
+
+<th scope="col" width="5%">S no.</th>
+<th scope="col" width="8%">Date</th>
+<th scope="col" width="10%">Status</th>
+<th scope="col" width="20%">Students</th>
+<th scope="col" class="text-end" width="20%"><span>Request</span></th>
+</tr>
+</thead>
+<tbody style={{ backgroundColor: "#968d8d1a" }}>
+<tr>
+
+<td>1</td>
+<td>25 Dec,21</td>
+<td style={{color: "green", backgroundColor: "lightgreen"}}>✅Done</td>
+<td>Abhishek Kumar Singh</td>
+<td class="text-end">Marks Update</td>
+</tr>
+<tr>
+
+<td>2</td>
+<td>26 Dec,21</td>
+<td style={{color: "green", backgroundColor: "lightgreen"}}>✅Done</td>
+<td>Kanhaiya Lal Nandan</td>
+<td class="text-end">Marks Update</td>
+</tr>
+
+</tbody>
+</table>
             </ul>
         </div>
     )
